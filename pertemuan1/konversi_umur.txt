@@ -1,0 +1,28 @@
+Contoh :
+mengkonversi umur manusia
+
+algoritma :
+Step 1 Jika umur dibawah 5 tahun maka Balita
+step 2 Jika umur lebih besar sama dengan 5 tahun dan dibawah 10 tahun maka Anak-anak
+step 3 Jika umur lebih besar sama dengan 10 tahun dan dibawah 17 tahun maka Remaja
+step 4 Jika umur lebih besar sama dengan 17 tahun dan di bawah 55 tahun maka Dewasa
+step 5 Jika umur lebih besar dari 55 tahun maka Usia lanjut
+
+
+Pseudocode:
+if umur < 5 )
+{
+	printf("Kamu Balita\n");
+} else if ( umur >=5 && <10 )
+	{
+	printf("Kamu Anak-anak\n");
+	} else if ( umur >= 10 && < 17)
+	  {
+ 	    printf("Kamu Remaja\n");
+	} else if ( umur >= 17 && < 55  )
+	   {
+	      printf("Kamu Dewasa\n");
+	   } else ( umur >= 55 )
+ 		{ 
+		  printf("Kamu Usia Lanjut\n");
+		}
