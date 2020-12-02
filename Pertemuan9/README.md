@@ -1,1 +1,1 @@
-Minggu ini membahas tentang Linear Pprogramming
+Minggu ini membahas tentang Linear Programming
